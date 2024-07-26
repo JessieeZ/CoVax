@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651289167339",
+    "project_id": "covax-468fa",
+    "storage_bucket": "covax-468fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651289167339:android:4a449bf4d443313ba845ae",
+        "android_client_info": {
+          "package_name": "com.example.covax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651289167339-v7q0a89jji7enrl8e40aebnq0q59gh2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covax",
+            "certificate_hash": "16f51c7dabbecf785c2f6ebb716ff57d4ac05d58"
+          }
+        },
+        {
+          "client_id": "651289167339-eaf8eqtmdngobq0q2agdie38buln1qui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrRN-WeNrlwuOOMEevtsSONydYxpaj2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651289167339-eaf8eqtmdngobq0q2agdie38buln1qui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
